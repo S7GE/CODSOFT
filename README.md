@@ -24,5 +24,6 @@ Clone this repository:
 
 '''bash
 git clone
-https://github.com/S7GE/CODSOFT.git
+https://github.com/S7GE/CODSOFT
+.git
 '''

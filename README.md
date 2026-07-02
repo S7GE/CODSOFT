@@ -18,3 +18,11 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 - HTML5
 - CSS3
 - JavaScript
+
+## Repository Setup
+Clone this repository:
+
+'''bash
+git clone
+https://github.com/S7GE/CODSOFT.git
+'''

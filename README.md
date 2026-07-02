@@ -19,11 +19,12 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 - CSS3
 - JavaScript
 
-## Repository Setup
+## 🚀 How to Run the Projects
 
-```markdown
-## Clone this repository
+Since these are static web pages, you don't need to install any dependencies or run a local server to view them.
 
-```bash
+1. Clone this repository to your local machine:
+
+'''bash
 git clone https://github.com/S7GE/CODSOFT.git
-cd CODSOFT
+'''

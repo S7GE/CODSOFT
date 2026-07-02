@@ -25,6 +25,5 @@ Since these are static web pages, you don't need to install any dependencies or 
 
 1. Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/S7GE/CODSOFT.git
-```
+   ```bash
+   git clone [https://github.com/S7GE/CODSOFT.git](https://github.com/S7GE/CODSOFT.git)

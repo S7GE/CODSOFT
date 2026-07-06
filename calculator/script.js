@@ -7,10 +7,8 @@ buttons.forEach(button => {
         const action = button.getAttribute('data-action');
 
         if (value) {
-            // Prevent multiple decimals
+
             if (value === '.' && currentInput.includes('.')) return;
-            
-            // Handle input appending
             currentInput += value;
             display.value = currentInput;
         }
@@ -29,7 +27,6 @@ buttons.forEach(button => {
             try {
                 if (currentInput) {
                     const result = eval(currentInput);
-                    // Round to avoid floating-point issues
                     display.value = Math.round(result * 100000000) / 100000000;
                     currentInput = display.value.toString();
                 }

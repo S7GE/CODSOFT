@@ -1,8 +1,6 @@
 const display = document.getElementById('display');
 const buttons = document.querySelectorAll('button');
 let currentInput = '';
-
-// Add event listeners to all buttons
 buttons.forEach(button => {
     button.addEventListener('click', () => {
         const value = button.getAttribute('data-value');
